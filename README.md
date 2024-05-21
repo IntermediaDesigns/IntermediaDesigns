@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/14o_1JfRl-z34TgMOt894yMNiZAFCMC8c/view?usp=sharing" />
 <h1 align="center">Hi 👋, I'm Lynjai Jimenez</h1>
 <h3 align="center">Software Engineer & College Student: Coding Today for a Better Tomorrow</h3>
 
