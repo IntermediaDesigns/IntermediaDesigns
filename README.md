@@ -38,7 +38,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   
 <h2>✅ Projects:</h2>
 
-- Advocacy Project for CodePath - Intro to Web Development <a href="https://intermediadesigns.github.io/LJimenez_AdvocacyProject/" target="_blank" />
+- Advocacy Project for CodePath - Intro to Web Development: 
+  <a href="https://codeblasters.netlify.app/" target="_blank">Code Blasters</a>
   <p>Throughout the course, I worked towards creating a single page website focused on a coding website for children with ADHD and other disabilities about Social Impact for Good.</p>
 
 <br/>
