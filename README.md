@@ -1,5 +1,5 @@
-<img src="aime3.png" width="50%" height="50%" />
-<h1 align="center">Hi 👋, I'm Lynjai Jimenez</h1>
+<img src="aime3.png" width="50%" height="50%" /> <h1 align="center">Hi 👋, I'm Lynjai Jimenez</h1>
+
 <h3 align="center">Software Engineer & College Student: Coding Today for a Better Tomorrow</h3>
 
 - 🔭 I’m currently working on **reddit clone**
