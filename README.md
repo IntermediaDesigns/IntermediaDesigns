@@ -41,6 +41,78 @@ Currently attending college to finish my Bachelors in Business Administration wi
 - Advocacy Project for CodePath - Intro to Web Development: 
   <a href="https://codeblasters.netlify.app/" target="_blank">Code Blasters</a>
   <p>Throughout the course, I worked towards creating a single page website focused on a coding website for children with ADHD and other disabilities about Social Impact for Good.</p>
+  <details>
+  <summary>Skills & Features</summary>
+  
+  - HTML
+  - JavaScript
+  - Vanilla CSS
+  - Light & Dark Mode
+  - Responsive NavBar
+
+</details>
+
+- Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Reddit Clone</a>
+  <p>I developed a sophisticated full-stack web application crafted with React and Next.js for the frontend, and Prisma for streamlined query handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. The message board aspect enables users to post, edit, delete, and upvote messages, fostering an interactive community environment. Leveraging folder-based routing on the frontend ensures code organization and maintainability. Moreover, the application supports threaded discussions through a well-implemented commenting system, facilitating engaging conversations around posted messages. The project showcases my proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
+
+  <details>
+  <summary>Skills & Features</summary>
+  
+    - HTML
+    - JavaScript
+    - Vanilla CSS
+    - React
+    - Next js
+    - Prisma ORM
+    - Netlify
+    - Neon Postgres
+
+  </details>
+
+- Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp: <a href="https://diaryhmh.netlify.app/">Diary Calendar</a>
+  <p>Diary Application Developed an interactive and responsive Diary Application that provides users with a personalized journaling experience. The application allows users to select any day of the month, across any year, to add, edit, or delete diary entries.  This project showcases my ability to create user-centric applications with intuitive navigation and responsive design. It also highlights my proficiency in managing and manipulating data structures, such as unordered lists, to enhance user experience.</p>
+  
+  <details>
+  <summary>Skills & Features</summary>
+    
+    - Skills:
+      - HTML
+      - JavaScript
+      - Vanilla CSS
+      - React
+      - Next js
+      - Netlify
+  
+    - Key Features:  
+      - Implemented a user-friendly interface that enables users to easily navigate through the calendar and manage their diary entries
+      - Developed a feature that displays all entries of a selected day in an unordered list (UL), providing a comprehensive view of the day’s entries
+      - Incorporated functionality to delete any entry within the month, enhancing user control over their diary content
+      - Implemented a seamless transition between years. When navigating the calendar, clicking ‘next’ in December loops back to January of the following year, and vice versa
+    
+    - Bonus Features:
+      - Enhanced the application’s usability by ensuring it remains fully functional and visually consistent when adjusting the screen size, demonstrating effective responsive design principles
+
+  </details>
+
+
+<h2>☑️ Challenges</h2>
+
+- Advice generator app for <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db" target="_blank">Frontend Mentor</a>: <a href="https://advicegenappchallenge.netlify.app/" target="_blank">Advice Generator App</a>
+  <p>Challenge done with Next JS, no extra add ons such as tailwind. The challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible.</p>
+
+
+  <details>
+  <summary>Skills & Features</summary>
+  
+    - HTML
+    - JavaScript
+    - Vanilla CSS
+    - React
+    - Next js
+    - Netlify
+    - API
+
+  </details>
 
 <br/>
 
