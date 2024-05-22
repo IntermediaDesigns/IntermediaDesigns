@@ -16,7 +16,7 @@
 <br/>
 
 <h2>About Me:</h2>
-Currently attending college to finish my Bachelors in Business Administration with a mnor in Web and Digital Design. I'm a passionate learner who's always interested in expanding my horizons. I'm currently diving deep into the world of programming, learning various languages to broaden my skill set and understanding. I've been spending my time developing projects, which allows me to apply what I've learned in a practical way. 
+Currently attending college to finish my Bachelors in Business Administration with a minor in Web and Digital Design. I'm a passionate learner who's always interested in expanding my horizons. I'm currently diving deep into the world of programming, learning various languages to broaden my skill set and understanding. I've been spending my time developing projects, which allows me to apply what I've learned in a practical way. 
 
 <br/><br/>
 <h2>🌟 Goals:</h2>
