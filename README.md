@@ -25,6 +25,10 @@ Currently attending college to finish my Bachelors in Business Administration wi
   
 - 👩🏻‍🏫 Develop a learning website
 
+- 🖥️ Develop a Micro SaaS
+
+- 👩🏻‍💻 Develop Wordpress themes & plugins
+
 <br/>
 <h2>🚧 Ongoing Projects:</h2>
 
