@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Lynjai Jimenez</h1>
 
-<h2 align="center">Full-Stack Web Developer</h2>
+<h2 align="center">Full Stack Web Developer</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
