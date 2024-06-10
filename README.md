@@ -129,15 +129,15 @@ Currently attending college to finish my Bachelors in Business Administration wi
       <li>**Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.</li>
     </ul>
   <br>
-  - Technical Details
-  <br>
-    <p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
-  <br>
-  - Conclusion
-  <br>
-    <p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
-  
+    - <b>Technical Details</b>
+    <br>
+      <p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
+    <br>
+    - <b>Conclusion</b>
+    <br>
+      <p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
   </details>
+  <br>
 
 <h2>☑️ Challenges</h2>
 
