@@ -115,7 +115,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 
 - Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Spammer</a>
 
-<p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
+  <p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
 
 <details>
 <summary>Skills & Features</summary>
@@ -130,12 +130,12 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </ul>
 <br>
 - Technical Details
-
-<p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
+<br>
+  <p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
 <br>
 - Conclusion
-
-<p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
+<br>
+  <p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
 
 </details>
 
