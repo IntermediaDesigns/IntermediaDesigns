@@ -115,25 +115,25 @@ Currently attending college to finish my Bachelors in Business Administration wi
 
 - Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Spammer</a>
 
-Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.
+<p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
 
 <details>
 <summary>Skills & Features</summary>
-
+<br>
 - **View All Messages**: Users can view a list of all messages, enhancing the accessibility of content.
 - **Post New Messages**: Users can post new messages, fostering user engagement and content creation.
 - **Edit and Delete Messages**: Users have the ability to delete or edit any message, providing them with control over their content.
 - **Like Feature**: A 'like' feature has been added to messages, allowing users to express their appreciation for other users’ content.
 - **Commenting System**: A commenting system has been developed where users can post comments to any message, promoting user interaction.
 - **Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.
+<br>
+- Technical Details
 
-## Technical Details
+<p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
+<br>
+- Conclusion
 
-The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.
-
-## Conclusion
-
-This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.
+<p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
 
 </details>
 
