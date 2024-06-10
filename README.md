@@ -117,27 +117,27 @@ Currently attending college to finish my Bachelors in Business Administration wi
 
   <p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
 
-<details>
-<summary>Skills & Features</summary>
-<br>
-  <ul>
-    <li>**View All Messages**: Users can view a list of all messages, enhancing the accessibility of content.</li>
-    <li>**Post New Messages**: Users can post new messages, fostering user engagement and content creation.</li>
-    <li>**Edit and Delete Messages**: Users have the ability to delete or edit any message, providing them with control over their content.</li>
-    <li>**Like Feature**: A 'like' feature has been added to messages, allowing users to express their appreciation for other users’ content.</li>
-    <li>**Commenting System**: A commenting system has been developed where users can post comments to any message, promoting user interaction.</li>
-    <li>**Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.</li>
-  </ul>
-<br>
-- Technical Details
-<br>
-  <p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
-<br>
-- Conclusion
-<br>
-  <p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
-
-</details>
+  <details>
+  <summary>Skills & Features</summary>
+  <br>
+    <ul>
+      <li>**View All Messages**: Users can view a list of all messages, enhancing the accessibility of content.</li>
+      <li>**Post New Messages**: Users can post new messages, fostering user engagement and content creation.</li>
+      <li>**Edit and Delete Messages**: Users have the ability to delete or edit any message, providing them with control over their content.</li>
+      <li>**Like Feature**: A 'like' feature has been added to messages, allowing users to express their appreciation for other users’ content.</li>
+      <li>**Commenting System**: A commenting system has been developed where users can post comments to any message, promoting user interaction.</li>
+      <li>**Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.</li>
+    </ul>
+  <br>
+  - Technical Details
+  <br>
+    <p>The application is integrated with API routing to manage the flow of data between the server and the client. It utilizes Prisma, an open-source database toolkit, to handle database operations.</p>
+  <br>
+  - Conclusion
+  <br>
+    <p>This project showcases my proficiency in developing interactive applications and managing complex data structures. It also highlights my ability to integrate third-party tools for efficient data management and routing.</p>
+  
+  </details>
 
 <h2>☑️ Challenges</h2>
 
