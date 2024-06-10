@@ -120,12 +120,14 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <details>
 <summary>Skills & Features</summary>
 <br>
-- **View All Messages**: Users can view a list of all messages, enhancing the accessibility of content.
-- **Post New Messages**: Users can post new messages, fostering user engagement and content creation.
-- **Edit and Delete Messages**: Users have the ability to delete or edit any message, providing them with control over their content.
-- **Like Feature**: A 'like' feature has been added to messages, allowing users to express their appreciation for other users’ content.
-- **Commenting System**: A commenting system has been developed where users can post comments to any message, promoting user interaction.
-- **Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.
+  <ul>
+    <li>**View All Messages**: Users can view a list of all messages, enhancing the accessibility of content.</li>
+    <li>**Post New Messages**: Users can post new messages, fostering user engagement and content creation.</li>
+    <li>**Edit and Delete Messages**: Users have the ability to delete or edit any message, providing them with control over their content.</li>
+    <li>**Like Feature**: A 'like' feature has been added to messages, allowing users to express their appreciation for other users’ content.</li>
+    <li>**Commenting System**: A commenting system has been developed where users can post comments to any message, promoting user interaction.</li>
+    <li>**Comprehensive View**: Each message lists all its associated comments, providing a comprehensive view of the discussion.</li>
+  </ul>
 <br>
 - Technical Details
 
