@@ -1,11 +1,9 @@
 <p align="center">
-![Header](github-header-image.png)
-  <img src="github-header-image.png" />
-<img src="aime3.png" width="50%" height="50%" alt="profile avatar" /> 
-</p>
-<h1 align="center">Hi 👋, I'm Lynjai Jimenez</h1>
 
-<h2 align="center">Full Stack Web Developer</h2>
+  <img src="github-header-image.png" />
+
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
