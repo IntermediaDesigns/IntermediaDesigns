@@ -56,7 +56,34 @@ Currently attending college to finish my Bachelors in Business Administration wi
   - Responsive NavBar
 
   </details>
+  <br>
+
+- Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://pettaskmaster.netlify.app/" target="_blank">Pet Taskmaster</a>
+  <p>I collaborated with 2 teammates on a full-stack web application crafted with React, CSS, JavaScript, and Next.js for the frontend, and Prisma for streamlined query and API handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. Pet Taskmasters is a user friendly task management game application that allows the users to purchase pokemon using earned coins, raise a pokemon to evolve its stage, complete tasks, create tasks, and earn coins for completing bonus tasks. The project showcases our proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
+
+    <details>
+    <summary>Skills & Features</summary>
+    <br>
+    
+    - HTML
+    - JavaScript
+    - Vanilla CSS
+    - React
+    - Next js
+    - Prisma ORM
+    - Netlify
+    - Neon Postgres
+    - Pokemon API - <a href="https://pokeapi.co/#google_vignette" target="_blank">Pokemon API Website</a>
+    - YouTube Video: <a href="https://youtu.be/ePmjyNAOpHU" target="_blank">Pet Taskmaster Video</a>
+    - GitHub Repo: <a href="https://github.com/DanielL87/capstone-next.git" target="_blank">Team Lead Pet TaskMaster Repository</a>
+    <br>
+
+    <p><strong>Shout out to David & Moreen</strong>, 2 of the best teammates to work with on a project!</p>
+  
+    </details>
+
 <br>
+
 
 - Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Reddit Clone</a>
   <p>I developed a sophisticated full-stack web application crafted with React and Next.js for the frontend, and Prisma for streamlined query handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. The message board aspect enables users to post, edit, delete, and upvote messages, fostering an interactive community environment. Leveraging folder-based routing on the frontend ensures code organization and maintainability. Moreover, the application supports threaded discussions through a well-implemented commenting system, facilitating engaging conversations around posted messages. The project showcases my proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
