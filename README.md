@@ -186,7 +186,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 </details>
 
 - 100 Days of Python Code using Replit <a href="https://replit.com/@imdesigns?tab=repls" target="_blank">Replit Profile</a> 
-  <p>During the 100 Days, I learned frontend implmenting flask, python basics, games, applications using tkinter, and other projects using python.</p>
+  <p>During the 100 Days, I learned frontend implementing flask, build games, apps, and websites by mastering Python programming.</p>
 
   <details>
   <summary>Skills & Features</summary>
