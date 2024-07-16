@@ -185,6 +185,22 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </ul>
 </details>
 
+- 100 Days of Python Code using Replit <a href="https://replit.com/@imdesigns?tab=repls" target="_blank">Replit Profile</a> 
+  <p>During the 100 Days, I learned frontend implmenting flask, python basics, games, applications using tkinter, and other projects using python.</p>
+
+  <details>
+  <summary>Skills & Features</summary>
+  <br>
+  <ul>
+    <li>HTML</li>
+    <li>JavaScript</li>
+    <li>Vanilla CSS</li>
+    <li>Flask</li>
+    <li>Python</li>
+    <li>Replit</li>
+  </ul>
+</details>
+
 <br/>
 
 <h2 align="left">💻 Languages and Tools:</h2>
