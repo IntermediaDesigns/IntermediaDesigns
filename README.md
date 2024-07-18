@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="banner.png" />
+  <img src="animatedbanner.gif" />
 
 </p>
 
