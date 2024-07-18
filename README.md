@@ -222,6 +222,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     </td>
     <td width="20%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
+      <p><img src="https://img.shields.io/badge/HTMX-3982CE?style=for-the-badge&logo=HTMX&logoColor=white" alt="HTMX" /></p>
       <p><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next js" /></p>
       <p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></p>
       <p><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></p>
