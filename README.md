@@ -233,6 +233,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
       <p><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" /></p>
       <p><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo db" /></p>
       <p><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" /></p>
+      <p><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></p>
       </div>
     </td>
     <td width="20%" style="border: none; vertical-align: top; padding: 0;">
