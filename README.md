@@ -10,6 +10,7 @@
 <a href="https://twitter.com/imdesignsllc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdesignsllc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lynjai-jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynjai-jimenez" height="30" width="40" /></a>
 <a href="https://instagram.com/intermedia_designs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intermedia_designs" height="30" width="40" /></a>
+<a href="https://linktr.ee/LynjaiJimenez" target="_blank"><img align="center" src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png?updated=1667559949507" alt="link tree" height="30" width="30" /> </a> 
 </p>
 <br/>
 <p align="center">📫 How to reach me: <br/> <a href="mailto:intermediadesignsllc@gmail.com" target="_blank" alt="email">intermediadesignsllc@gmail.com</a></p>
