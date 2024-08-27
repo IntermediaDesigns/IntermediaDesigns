@@ -43,6 +43,90 @@ Currently attending college to finish my Bachelors in Business Administration wi
   
 <h2>✅ Projects:</h2>
 
+- AI Customer Support Application for Headstarter SWE Fellowship
+  <p><a href="https://ai-customer-support-mu.vercel.app/">Live Demo</a></p>
+  <p>This AI Customer Support Application was developed as part of the Headstarter SWE Fellowship. It's an AI-    
+  powered chatbot designed to provide intelligent customer support, leveraging modern web technologies and AI 
+  capabilities to deliver a personalized chat experience.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />
+  </p>
+
+  <details>
+  <summary>Project Overview:</summary>
+  <br>
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <br>
+      <ul>
+        <li><strong>Intelligent AI Responses</strong>: Utilizes Google Gemini to generate dynamic, context-aware 
+        responses to user queries.</li>
+        <li><strong>User Authentication</strong>: Personalized chat experiences with secure user authentication.          </li>
+        <li><strong>Real-time Interaction</strong>: Instant message display and status indicators for a seamless 
+        user experience.</li>
+      </ul>
+    <br>
+    <li><a href="#tech-stack">Tech Stack</a></li>
+    <br>
+    <ul>
+      <li><strong>Frontend</strong>: Next.js</li>
+      <li><strong>Backend & Database</strong>: Firebase</li>
+      <li><strong>AI Model</strong>: Google Gemini</li>
+    </ul>
+    <br>
+    <li><a href="#technical-implementation">Technical Implementation</a></li>
+   
+    <h3>Next.js Frontend</h3>
+    <ul>
+        <li>Server-side rendering for improved performance and SEO</li>
+        <li>Dynamic routing for seamless navigation</li>
+        <li>API routes for serverless backend functionality</li>
+    </ul>
+    
+    <h3>Firebase Integration</h3>
+    <ul>
+        <li>Realtime Database/Firestore for data storage</li>
+        <li>Firebase Authentication for user management</li>
+        <li>Cloud Functions for serverless operations</li>
+    </ul>
+    
+    <h3>Google Gemini Integration</h3>
+    <ul>
+        <li>API integration for processing user inputs and generating responses</li>
+        <li>Context management system for coherent conversations</li>
+        <li>Error handling and fallback mechanisms</li>
+    </ul>
+    <br>
+    <li><a href="#contributors">Contributors</a></li>
+    <br>
+    <p>This project was developed as part of the Headstarter SWE Fellowship. Contributors include:</p>
+    
+    <h3>Frontend & Backend</h3>
+      <ul>
+        <li><a href="https://github.com/IntermediaDesigns">Lynjai Jimenez</a></li>
+      </ul>
+    <h3>Frontend UI</h3>
+      <ul>
+        <li><a href="https://github.com/Calypso90">Calypso Hernandez</a></li>
+      </ul>
+  <br>
+  <h2>Conclusion</h2>
+  <p>This project showcases my proficiency in developing advanced web applications using cutting-edge technologies. Specifically, it demonstrates:</p>
+    <ul>
+        <li><strong>Full-stack Development Skills:</strong> Utilizing Next.js for a robust frontend and Firebase for a scalable backend, showcasing a comprehensive understanding of modern web development practices.</li>
+        <li><strong>AI Integration:</strong> Successfully implementing Google Gemini for intelligent responses, highlighting my ability to work with and integrate advanced AI models into practical applications.</li>
+        <li><strong>User Authentication and Security:</strong> Implementing secure user authentication and data protection measures, demonstrating a strong focus on application security and user privacy.</li>
+        <li><strong>Real-time Features:</strong> Developing real-time interaction capabilities, showcasing skills in creating responsive and dynamic user experiences.</li>
+        <li><strong>Problem-Solving Abilities:</strong> Addressing challenges such as AI response latency and context retention, illustrating my capacity to find innovative solutions to complex technical problems.</li>
+        <li><strong>UI/UX Considerations:</strong> Creating an intuitive and user-friendly interface for the chatbot, showing an understanding of the importance of user experience in application design.</li>
+    </ul>
+  <p>This AI Customer Support Application not only serves as a practical solution for enhancing customer support processes but also as a testament to my capabilities as a developer. It reflects my ability to leverage modern technologies to create innovative, efficient, and user-centric applications.</p>
+  </details>
+  <br>
+
 - Advocacy Project for CodePath - Intro to Web Development: 
   <a href="https://codeblasters.netlify.app/" target="_blank">Code Blasters</a>
   <p>Throughout the course, I worked towards creating a single page website focused on a coding website for children with ADHD and other disabilities about Social Impact for Good.</p>
