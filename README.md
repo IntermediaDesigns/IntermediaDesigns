@@ -58,16 +58,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <details>
   <summary>Project Overview:</summary>
   <br>
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#project-overview">Project Overview</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-        <li><a href="#technical-implementation">Technical Implementation</a></li>
-        <li><a href="#contributors">Contributors</a></li>
-    </ul>
   <ul>
-    <li><a href="#features">Features</a></li>
+    <li>Features:</li>
     <br>
       <ul>
         <li><strong>Intelligent AI Responses</strong>: Utilizes Google Gemini to generate dynamic, context-aware 
@@ -77,7 +69,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
         user experience.</li>
       </ul>
     <br>
-    <li><a href="#tech-stack">Tech Stack</a></li>
+    <li>Tech Stack:</li>
     <br>
     <ul>
       <li><strong>Frontend</strong>: Next.js</li>
@@ -85,7 +77,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
       <li><strong>AI Model</strong>: Google Gemini</li>
     </ul>
     <br>
-    <li><a href="#technical-implementation">Technical Implementation</a></li>
+    <li>Technical Implementation:</li>
    
     <h3>Next.js Frontend</h3>
     <ul>
@@ -108,7 +100,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
         <li>Error handling and fallback mechanisms</li>
     </ul>
     <br>
-    <li><a href="#contributors">Contributors</a></li>
+    <li>Contributors:</li>
     <br>
     <p>This project was developed as part of the Headstarter SWE Fellowship. Contributors include:</p>
     
@@ -131,6 +123,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
         <li><strong>Problem-Solving Abilities:</strong> Addressing challenges such as AI response latency and context retention, illustrating my capacity to find innovative solutions to complex technical problems.</li>
         <li><strong>UI/UX Considerations:</strong> Creating an intuitive and user-friendly interface for the chatbot, showing an understanding of the importance of user experience in application design.</li>
     </ul>
+    <br>
   <p>This AI Customer Support Application not only serves as a practical solution for enhancing customer support processes but also as a testament to my capabilities as a developer. It reflects my ability to leverage modern technologies to create innovative, efficient, and user-centric applications.</p>
   </details>
   <br>
