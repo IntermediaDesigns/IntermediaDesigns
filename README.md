@@ -58,6 +58,14 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <details>
   <summary>Project Overview:</summary>
   <br>
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#project-overview">Project Overview</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#technical-implementation">Technical Implementation</a></li>
+        <li><a href="#contributors">Contributors</a></li>
+    </ul>
   <ul>
     <li><a href="#features">Features</a></li>
     <br>
