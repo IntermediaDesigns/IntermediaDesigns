@@ -50,9 +50,10 @@ Currently attending college to finish my Bachelors in Business Administration wi
   capabilities to deliver a personalized chat experience.</p>
   
   <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   </p>
 
   <details>
@@ -141,7 +142,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Clerk-6C47FF.svg?style=for-the-badge&logo=Clerk&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   </p>
 
   <details>
@@ -228,7 +230,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <p align="left">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Pinecone-000000.svg?style=for-the-badge&logo=Pinecone&logoColor=white" alt="Pinecone" />
+    <img src="https://img.shields.io/badge/Pinecone-000000.svg?style=for-the-badge&logo=Pinecone&logoColor=white" alt="Pinecone" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   </p>
 
   <details>
@@ -318,7 +321,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <img src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="Google Gemini" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   </p>
 
   <details>
