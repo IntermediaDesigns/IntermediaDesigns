@@ -231,6 +231,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Pinecone-000000.svg?style=for-the-badge&logo=Pinecone&logoColor=white" alt="Pinecone" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   </p>
 
