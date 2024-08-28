@@ -170,37 +170,37 @@ Currently attending college to finish my Bachelors in Business Administration wi
       <li><strong>Payment Processing:</strong> Stripe</li>
     </ul>
     <br>
-    <h2>Technical Implementation:</h2>
+    <li>Technical Implementation:</li>
     <h3>Next.js Frontend</h3>
     <ul>
-        <li>Server-side rendering for improved performance and SEO</li>
-        <li>Dynamic routing for seamless navigation</li>
-        <li>API routes for serverless backend functionality</li>
-    </ul>
-    <h3>Firebase Integration</h3>
-    <ul>
-        <li>Realtime Database/Firestore for data storage</li>
-        <li>Firebase Authentication for user management</li>
-        <li>Cloud Functions for serverless operations</li>
-    </ul>
-    <h3>Google Gemini Integration</h3>
-    <ul>
-        <li>API integration for processing user inputs and generating responses</li>
-        <li>Context management system for coherent conversations</li>
-        <li>Error handling and fallback mechanisms</li>
-    </ul>
-    <br>
-    <li>Contributors:</li>
-    <br>
-    <p>This project was developed as part of the Headstarter SWE Fellowship. Contributors include:</p>
-    <h3>Frontend & Backend</h3>
-      <ul>
-        <li><a href="https://github.com/IntermediaDesigns">Lynjai Jimenez</a></li>
-      </ul>
-    <h3>Frontend UI</h3>
-      <ul>
-        <li><a href="https://github.com/Calypso90">Calypso Hernandez</a></li>
-      </ul>
+      <li>Server-side rendering for improved performance and SEO</li>
+      <li>Dynamic routing for seamless navigation</li>
+      <li>API routes for serverless backend functionality</li>
+   </ul>
+   <h3>Clerk Authentication</h3>
+   <ul>
+      <li>Secure user authentication and management</li>
+      <li>Seamless integration with Next.js</li>
+      <li>Support for multiple authentication methods</li>
+   </ul>
+   <h3>Firebase Integration</h3>
+   <ul>
+      <li>Realtime Database/Firestore for data storage</li>
+      <li>Cloud Functions for serverless operations</li>
+      <li>Scalable backend infrastructure</li>
+   </ul>
+   <h3>Stripe Payment Integration</h3>
+   <ul>
+      <li>Secure payment processing for subscription tiers</li>
+      <li>Webhook integration for handling payment events</li>
+      <li>Customer portal for managing subscriptions</li>
+   </ul>
+   <h3>OpenAI Integration</h3>
+   <ul>
+      <li>AI-powered flashcard generation</li>
+      <li>Natural language processing for content optimization</li>
+      <li>Personalized learning recommendations</li>
+   </ul>
   </ul>
   <br>
   <h2>Conclusion</h2>
@@ -254,7 +254,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
       <li><strong>Web Scraping:</strong> Cheerio</li>
     </ul>
     <br>
-    <h2>Technical Implementation:</h2>
+    <li>Technical Implementation:</li>
     <h3>Next.js Frontend</h3>
     <ul>
       <li>Server-side rendering for improved performance and SEO</li>
@@ -304,6 +304,85 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </ul>
   <br>
   <p>Mentor Metrics not only serves as a valuable tool for students seeking professor information but also demonstrates the developers' ability to create innovative, AI-driven solutions to real-world problems.</p>
+  </details>
+  <br>
+
+- Pantry Pro - AI-Powered Pantry Management Application for Headstarter SWE Fellowship
+  <p><a href="https://pantry-tracker-plum.vercel.app/">Live Demo</a></p>
+  <p>Pantry Pro is an innovative pantry management application developed as a solo project. It leverages modern 
+  web technologies and AI capabilities to provide a seamless and intelligent solution for managing your kitchen 
+  inventory and meal planning.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="Google Gemini" />
+  </p>
+
+  <details>
+  <summary>Project Overview:</summary>
+  <br>
+  <ul>
+    <li>Features:</li>
+    <br>
+    <ul>
+        <li><strong>Pantry Management</strong>: Add, delete, and update pantry items with ease.</li>
+        <li><strong>Smart Search</strong>: Quickly find items in your pantry with advanced search and filter functionality.</li>
+        <li><strong>Grocery List</strong>: Save items directly to your grocery list for convenient shopping.</li>
+        <li><strong>Favorites</strong>: Mark and easily access your favorite pantry items.</li>
+        <li><strong>AI-Powered Recipe Suggestions</strong>: Get personalized recipe ideas based on your pantry contents.</li>
+        <li><strong>Image Generation</strong>: Automatically generate and update item images using AI.</li>
+    </ul>
+    <br>
+    <li>Tech Stack:</li>
+    <br>
+    <ul>
+      <li><strong>Frontend</strong>: Next.js, Material UI</li>
+      <li><strong>Backend & Database</strong>: Firebase</li>
+      <li><strong>AI Integration</strong>: Hugging Face API (image generation), Google Gemini API (recipe suggestions)</li>
+      <li><strong>Deployment</strong>: Vercel with CI/CD</li>
+    </ul>
+    <br>
+    <li>Technical Implementation:</li>
+    <h3>Next.js Frontend</h3>
+    <ul>
+        <li>Server-side rendering for improved performance and SEO</li>
+        <li>Dynamic routing for seamless navigation</li>
+        <li>Responsive design using Material UI components</li>
+    </ul>
+
+    <h3>Firebase Integration</h3>
+    <ul>
+        <li>Realtime Database for storing pantry items and user data</li>
+        <li>Firebase Authentication for user management</li>
+        <li>Cloud Storage for storing generated item images</li>
+    </ul>
+
+    <h3>AI Integration</h3>
+    <ul>
+        <li>Hugging Face API for generating realistic item images</li>
+        <li>Google Gemini API for intelligent recipe suggestions based on pantry contents</li>
+    </ul>
+
+    <h3>CI/CD Pipeline</h3>
+    <ul>
+        <li>Automated deployment to Vercel upon pushing to the main branch</li>
+        <li>Continuous integration checks to ensure code quality and prevent breaking changes</li>
+    </ul>
+    </ul>
+    <br>
+  <h2>Conclusion</h2>
+  <p>Pantry Pro showcases advanced web development skills and the innovative use of AI in practical applications. Key highlights include:</p>
+  <ul>
+      <li><strong>Full-stack Development</strong>: Utilizing Next.js and Material UI for a robust frontend, with Firebase powering the backend.</li>
+      <li><strong>AI Integration</strong>: Leveraging Hugging Face for image generation and Google Gemini for intelligent recipe suggestions.</li>
+      <li><strong>Real-time Features</strong>: Implementing real-time updates for a responsive user experience.</li>
+      <li><strong>Scalable Architecture</strong>: Designing a system capable of handling growing user bases and data volumes.</li>
+      <li><strong>User-Centric Design</strong>: Focusing on intuitive UI/UX to enhance user engagement and satisfaction.</li>
+  </ul>
+  <p>Pantry Pro not only simplifies pantry management but also demonstrates the potential of combining modern web technologies with AI to create practical, user-friendly applications.</p>
   </details>
   <br>
 
