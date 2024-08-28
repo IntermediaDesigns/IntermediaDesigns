@@ -319,7 +319,6 @@ Currently attending college to finish my Bachelors in Business Administration wi
   
   <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="Google Gemini" />&nbsp;&nbsp;
