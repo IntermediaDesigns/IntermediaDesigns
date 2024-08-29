@@ -161,48 +161,60 @@ Currently attending college to finish my Bachelors in Business Administration wi
         <li>Secure authentication with Clerk</li>
         <li>Seamless payment integration with Stripe</li>
       </ul>
-    <br>
-    <li>Tech Stack:</li>
-    <br>
-    <ul>
-      <li><strong>Frontend:</strong> Next.js</li>
-      <li><strong>Backend:</strong> Firebase</li>
-      <li><strong>Authentication:</strong> Clerk</li>
-      <li><strong>AI Integration:</strong> OpenAI</li>
-      <li><strong>Payment Processing:</strong> Stripe</li>
-    </ul>
-    <br>
-    <li>Technical Implementation:</li>
-    <h3>Next.js Frontend</h3>
-    <ul>
-      <li>Server-side rendering for improved performance and SEO</li>
-      <li>Dynamic routing for seamless navigation</li>
-      <li>API routes for serverless backend functionality</li>
-   </ul>
-   <h3>Clerk Authentication</h3>
-   <ul>
-      <li>Secure user authentication and management</li>
-      <li>Seamless integration with Next.js</li>
-      <li>Support for multiple authentication methods</li>
-   </ul>
-   <h3>Firebase Integration</h3>
-   <ul>
-      <li>Realtime Database/Firestore for data storage</li>
-      <li>Cloud Functions for serverless operations</li>
-      <li>Scalable backend infrastructure</li>
-   </ul>
-   <h3>Stripe Payment Integration</h3>
-   <ul>
-      <li>Secure payment processing for subscription tiers</li>
-      <li>Webhook integration for handling payment events</li>
-      <li>Customer portal for managing subscriptions</li>
-   </ul>
-   <h3>OpenAI Integration</h3>
-   <ul>
-      <li>AI-powered flashcard generation</li>
-      <li>Natural language processing for content optimization</li>
-      <li>Personalized learning recommendations</li>
-   </ul>
+      <br>
+      <li>Tech Stack:</li>
+      <br>
+      <ul>
+        <li><strong>Frontend:</strong> Next.js</li>
+        <li><strong>Backend:</strong> Firebase</li>
+        <li><strong>Authentication:</strong> Clerk</li>
+        <li><strong>AI Integration:</strong> OpenAI</li>
+        <li><strong>Payment Processing:</strong> Stripe</li>
+      </ul>
+      <br>
+      <li>Technical Implementation:</li>
+      <h3>Next.js Frontend</h3>
+      <ul>
+        <li>Server-side rendering for improved performance and SEO</li>
+        <li>Dynamic routing for seamless navigation</li>
+        <li>API routes for serverless backend functionality</li>
+     </ul>
+     <h3>Clerk Authentication</h3>
+     <ul>
+        <li>Secure user authentication and management</li>
+        <li>Seamless integration with Next.js</li>
+        <li>Support for multiple authentication methods</li>
+     </ul>
+     <h3>Firebase Integration</h3>
+     <ul>
+        <li>Realtime Database/Firestore for data storage</li>
+        <li>Cloud Functions for serverless operations</li>
+        <li>Scalable backend infrastructure</li>
+     </ul>
+     <h3>Stripe Payment Integration</h3>
+     <ul>
+        <li>Secure payment processing for subscription tiers</li>
+        <li>Webhook integration for handling payment events</li>
+        <li>Customer portal for managing subscriptions</li>
+     </ul>
+     <h3>OpenAI Integration</h3>
+     <ul>
+        <li>AI-powered flashcard generation</li>
+        <li>Natural language processing for content optimization</li>
+        <li>Personalized learning recommendations</li>
+     </ul>
+     <br>
+     <li>Contributors:</li>
+     <br>
+     <p>This project was developed as part of the Headstarter SWE Fellowship. Contributors include:</p>
+     <h3>Frontend & Backend</h3>
+       <ul>
+         <li><a href="https://github.com/IntermediaDesigns">Lynjai Jimenez</a></li>
+       </ul>
+     <h3>Frontend UI</h3>
+       <ul>
+         <li><a href="https://github.com/Calypso90">Calypso Hernandez</a></li>
+       </ul>
   </ul>
   <br>
   <h2>Conclusion</h2>
@@ -216,8 +228,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
     <li><strong>UI/UX Considerations:</strong> Creating an intuitive and user-friendly interface for the chatbot, showing an understanding of the importance of user experience in application design.</li>
   </ul>
   <br>
-  <p>Flash Wave not only serves as a practical solution for enhancing learning processes but also as a testament to the developers' capabilities. It reflects the ability to leverage modern technologies to create innovative, efficient, and user-centric applications.</p>
-
+  <p>Flash Wave not only serves as a practical solution for enhancing learning processes but also as a testament to the developers' capabilities. It reflects the ability to leverage modern technologies to create innovative, 
+  efficient, and user-centric applications.</p>
   </details>
   <br>
 
