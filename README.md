@@ -343,7 +343,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     <li>Tech Stack:</li>
     <br>
     <ul>
-      <li><strong>Frontend</strong>: Next.js, Material UI</li>
+      <li><strong>Frontend</strong>: Next.js, Tailwind CSS</li>
       <li><strong>Backend & Database</strong>: Firebase</li>
       <li><strong>AI Integration</strong>: Hugging Face API (image generation), Google Gemini API (recipe suggestions)</li>
       <li><strong>Deployment</strong>: Vercel with CI/CD</li>
@@ -354,7 +354,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     <ul>
         <li>Server-side rendering for improved performance and SEO</li>
         <li>Dynamic routing for seamless navigation</li>
-        <li>Responsive design using Material UI components</li>
+        <li>Responsive design using Tailwind CSS</li>
     </ul>
 
     <h3>Firebase Integration</h3>
@@ -380,7 +380,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <h2>Conclusion</h2>
   <p>Pantry Pro showcases advanced web development skills and the innovative use of AI in practical applications. Key highlights include:</p>
   <ul>
-      <li><strong>Full-stack Development</strong>: Utilizing Next.js and Material UI for a robust frontend, with Firebase powering the backend.</li>
+      <li><strong>Full-stack Development</strong>: Utilizing Next.js and Tailwind CSS for a robust frontend, with Firebase powering the backend.</li>
       <li><strong>AI Integration</strong>: Leveraging Hugging Face for image generation and Google Gemini for intelligent recipe suggestions.</li>
       <li><strong>Real-time Features</strong>: Implementing real-time updates for a responsive user experience.</li>
       <li><strong>Scalable Architecture</strong>: Designing a system capable of handling growing user bases and data volumes.</li>
