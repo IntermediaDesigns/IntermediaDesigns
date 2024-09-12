@@ -493,7 +493,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </details>
   <br>
 
-- Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://pettaskmaster.netlify.app/" target="_blank">Live Site</a>
+- Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:
+  <p><a href="https://pettaskmaster.netlify.app/" target="_blank">Live Site</a></p>
   <p>I collaborated with 2 teammates on a full-stack web application crafted with React, CSS, JavaScript, and Next.js for the frontend, and Prisma for streamlined query and API handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. Pet Taskmasters is a user friendly task management game application that allows the users to purchase pokemon using earned coins, raise a pokemon to evolve its stage, complete tasks, create tasks, and earn coins for completing bonus tasks. The project showcases our proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
   
   <p align="left">
@@ -525,7 +526,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <br>
 
 
-- Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Live Site</a>
+- Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:
+  <p><a href="https://redditclonehmh.netlify.app/" target="_blank">Live Site</a></p>
   <p>I developed a sophisticated full-stack web application crafted with React and Next.js for the frontend, and Prisma for streamlined query handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. The message board aspect enables users to post, edit, delete, and upvote messages, fostering an interactive community environment. Leveraging folder-based routing on the frontend ensures code organization and maintainability. Moreover, the application supports threaded discussions through a well-implemented commenting system, facilitating engaging conversations around posted messages. The project showcases my proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
   
   <p align="left">
@@ -547,7 +549,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
     </details>
 <br>
 
-- Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp: <a href="https://diaryhmh.netlify.app/">Live Site</a>
+- Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:
+  <p><a href="https://diaryhmh.netlify.app/">Live Site</a></p>
   <p>Diary Application Developed an interactive and responsive Diary Application that provides users with a personalized journaling experience. The application allows users to select any day of the month, across any year, to add, edit, or delete diary entries.  This project showcases my ability to create user-centric applications with intuitive navigation and responsive design. It also highlights my proficiency in managing and manipulating data structures, such as unordered lists, to enhance user experience.</p>
   
   <p align="left">
@@ -580,7 +583,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
 </details>
 <br>
 
-- Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Live Site</a>
+- Spammer Application for HackmyHead:
+  <p><a href="https://spammerproject.netlify.app/">Live Site</a></p>
 
   <p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
   <p align="left">
