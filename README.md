@@ -42,6 +42,97 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <br/>
   
 <h2>✅ Projects:</h2>
+<br>
+
+- Code Sage AI - AI-Assisted Code Review Platform
+  <p><a href="https://code-sage-ai.vercel.app/">Live Site</a></p>
+  <p> This AI-Assisted Code Review Platform is an innovative solution designed to revolutionize the code review process. By leveraging cutting-edge AI technology, it provides intelligent, automated code analysis and suggestions, enhancing code quality and accelerating development cycles.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Convex-FF7F50.svg?style=for-the-badge&logo=Convex&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
+  </p>
+
+  <details>
+  <summary>Project Overview:</summary>
+  <br>
+  <ul>
+    <li>Features:</li>
+    <br>
+      <ul>
+        <li><strong>AI-Powered Code Analysis</strong>: Utilizes Google Gemini to provide intelligent code review suggestions and identify potential issues.</li>
+        <li><strong>Real-time Collaboration</strong>: Enables developers to share and review code snippets in real-time.</li>
+        <li> <strong>Multi-language Support</strong>: Supports various programming languages for comprehensive code analysis.</li>
+        <li><strong>User Authentication</strong>: Secure user accounts and personalized review history.</li>
+        <li><strong>Interactive Code Editor</strong>: Feature-rich code editing environment with syntax highlighting.</li>
+      </ul>
+    <br>
+    <li>Tech Stack:</li>
+    <br>
+    <ul>
+      <li><strong>Frontend</strong>: Next.js with TypeScript</li>
+      <li><strong>Backend</strong>: Convex</li>
+      <li><strong>AI Model</strong>: Google Gemini</li>
+      <li><strong>Authentication</strong>: Clerk</li>
+      <li><strong>Styling</strong>: Tailwind CSS & Shadcn/UI</li>
+    </ul>
+    <br>
+    <li>Technical Implementation:</li>
+   
+    <h3>Next.js Frontend</h3>
+    <ul>
+        <li>App Router for optimized routing and server-side rendering</li>
+        <li>TypeScript for enhanced type safety and developer experience</li>
+        <li>Monaco Editor integration for a powerful code editing interface</li>
+    </ul>
+    
+    <h3>Convex Backend</h3>
+    <ul>
+        <li>Real-time data synchronization for collaborative features</li>
+        <li>Efficient storage and retrieval of code snippets and review data</li>
+        <li>Serverless functions for handling business logic</li>
+    </ul>
+    
+    <h3>Google Gemini Integration</h3>
+    <ul>
+        <li>Advanced natural language processing for code analysis</li>
+        <li>Context-aware suggestions for code improvements</li>
+        <li>Multi-language support for diverse development environments</li>
+    </ul>
+
+    <h3>Google Gemini Integration</h3>
+    <ul>
+        <li>Advanced natural language processing for code analysis</li>
+        <li>Context-aware suggestions for code improvements</li>
+        <li>Multi-language support for diverse development environments</li>
+    </ul>
+
+    <h3>Google Gemini Integration</h3>
+    <ul>
+         <li>Advanced natural language processing for code analysis</li>
+         <li>Context-aware suggestions for code improvements</li>
+         <li>Multi-language support for diverse development environments</li>
+    </ul>
+  </ul>
+  
+  <br>
+  <h2>Conclusion</h2>
+  <p>The AI-Assisted Code Review Platform aims to address several key challenges in the software development process:</p>
+  <ul>
+    <li><strong>Enhancing Code Quality:</strong> By providing AI-driven insights, the platform helps identify and resolve potential issues early in the development cycle.</li>
+    <li><strong>Accelerating Development:</strong> Instant AI feedback reduces the time spent on manual code reviews, speeding up the overall development process.</li>
+    <li><strong>Promoting Best Practices:</strong> The AI suggestions help developers learn and apply coding best practices consistently across projects.</li>
+    <li><strong>Reducing Technical Debt:</strong> Early detection of code issues prevents the accumulation of technical debt over time.</li>
+    <li><strong>Augmenting Human Expertise:</strong> By handling routine checks, the AI allows human reviewers to focus on higher-level architectural considerations.</li>
+  </ul>
+  <br>
+  <p>This platform not only improves code quality and developer productivity but also fosters a culture of continuous learning and improvement in software development teams.</p>
+  </details>
+  <br>
 
 - AI Customer Support Application for Headstarter SWE Fellowship
   <p><a href="https://ai-customer-support-mu.vercel.app/">Live Demo</a></p>
@@ -117,15 +208,15 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <br>
   <h2>Conclusion</h2>
   <p>This project showcases my proficiency in developing advanced web applications using cutting-edge technologies. Specifically, it demonstrates:</p>
-    <ul>
-        <li><strong>Full-stack Development Skills:</strong> Utilizing Next.js for a robust frontend and Firebase for a scalable backend, showcasing a comprehensive understanding of modern web development practices.</li>
-        <li><strong>AI Integration:</strong> Successfully implementing Google Gemini for intelligent responses, highlighting my ability to work with and integrate advanced AI models into practical applications.</li>
-        <li><strong>User Authentication and Security:</strong> Implementing secure user authentication and data protection measures, demonstrating a strong focus on application security and user privacy.</li>
-        <li><strong>Real-time Features:</strong> Developing real-time interaction capabilities, showcasing skills in creating responsive and dynamic user experiences.</li>
-        <li><strong>Problem-Solving Abilities:</strong> Addressing challenges such as AI response latency and context retention, illustrating my capacity to find innovative solutions to complex technical problems.</li>
-        <li><strong>UI/UX Considerations:</strong> Creating an intuitive and user-friendly interface for the chatbot, showing an understanding of the importance of user experience in application design.</li>
-    </ul>
-    <br>
+  <ul>
+    <li><strong>Full-stack Development Skills:</strong> Utilizing Next.js for a robust frontend and Firebase for a scalable backend, showcasing a comprehensive understanding of modern web development practices.</li>
+    <li><strong>AI Integration:</strong> Successfully implementing Google Gemini for intelligent responses, highlighting my ability to work with and integrate advanced AI models into practical applications.</li>
+    <li><strong>User Authentication and Security:</strong> Implementing secure user authentication and data protection measures, demonstrating a strong focus on application security and user privacy.</li>
+    <li><strong>Real-time Features:</strong> Developing real-time interaction capabilities, showcasing skills in creating responsive and dynamic user experiences.</li>
+    <li><strong>Problem-Solving Abilities:</strong> Addressing challenges such as AI response latency and context retention, illustrating my capacity to find innovative solutions to complex technical problems.</li>
+    <li><strong>UI/UX Considerations:</strong> Creating an intuitive and user-friendly interface for the chatbot, showing an understanding of the importance of user experience in application design.</li>
+  </ul>
+  <br>
   <p>This AI Customer Support Application not only serves as a practical solution for enhancing customer support processes but also as a testament to my capabilities as a developer. It reflects my ability to leverage modern technologies to create innovative, efficient, and user-centric applications.</p>
   </details>
   <br>
