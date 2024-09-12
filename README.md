@@ -135,7 +135,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <br>
 
 - AI Customer Support Application for Headstarter SWE Fellowship
-  <p><a href="https://ai-customer-support-mu.vercel.app/">Live Demo</a></p>
+  <p><a href="https://ai-customer-support-mu.vercel.app/">Live Site</a></p>
   <p>This AI Customer Support Application was developed as part of the Headstarter SWE Fellowship. It's an AI-   
   powered chatbot designed to provide intelligent customer support, leveraging modern web technologies and AI 
   capabilities to deliver a personalized chat experience.</p>
@@ -222,7 +222,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <br>
 
 - Flash Wave a Flashcard SaaS Application for Headstarter SWE Fellowship
-  <p><a href="https://flashwave-zeta.vercel.app/">Live Demo</a></p>
+  <p><a href="https://flashwave-zeta.vercel.app/">Live Site</a></p>
   <p>This Flashcard SaaS Application was developed as part of the Headstarter SWE Fellowship. Flash Wave is a cutting-edge flashcard 
   application that revolutionizes the way you learn and retain information. Powered by advanced AI technology and built on a robust 
   tech stack, Flash Wave offers a seamless, personalized learning experience for students, professionals, and lifelong learners alike. 
@@ -325,7 +325,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <br>
 
 - Mentor Metrics AI-Powered Professor Rating and Recommendation System Application for Headstarter SWE Fellowship
-  <p><a href="https://mentor-metrics.vercel.app/">Live Demo</a></p>
+  <p><a href="https://mentor-metrics.vercel.app/">Live Site</a></p>
   <p>Mentor Metrics is an innovative AI-powered application that revolutionizes the way students access and 
   interpret professor ratings. Built with cutting-edge technologies, this project aims to provide personalized, 
   intelligent insights into professor performance and suitability.</p>
@@ -415,7 +415,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <br>
 
 - Pantry Pro - AI-Powered Pantry Management Application for Headstarter SWE Fellowship
-  <p><a href="https://pantry-tracker-plum.vercel.app/">Live Demo</a></p>
+  <p><a href="https://pantry-tracker-plum.vercel.app/">Live Site</a></p>
   <p>Pantry Pro is an innovative pantry management application developed as a solo project. It leverages modern 
   web technologies and AI capabilities to provide a seamless and intelligent solution for managing your kitchen 
   inventory and meal planning.</p>
@@ -493,7 +493,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </details>
   <br>
 
-- Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://pettaskmaster.netlify.app/" target="_blank">Pet Taskmaster</a>
+- Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://pettaskmaster.netlify.app/" target="_blank">Live Site</a>
   <p>I collaborated with 2 teammates on a full-stack web application crafted with React, CSS, JavaScript, and Next.js for the frontend, and Prisma for streamlined query and API handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. Pet Taskmasters is a user friendly task management game application that allows the users to purchase pokemon using earned coins, raise a pokemon to evolve its stage, complete tasks, create tasks, and earn coins for completing bonus tasks. The project showcases our proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
   
   <p align="left">
@@ -525,7 +525,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <br>
 
 
-- Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Reddit Clone</a>
+- Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Live Site</a>
   <p>I developed a sophisticated full-stack web application crafted with React and Next.js for the frontend, and Prisma for streamlined query handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. The message board aspect enables users to post, edit, delete, and upvote messages, fostering an interactive community environment. Leveraging folder-based routing on the frontend ensures code organization and maintainability. Moreover, the application supports threaded discussions through a well-implemented commenting system, facilitating engaging conversations around posted messages. The project showcases my proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
   
   <p align="left">
@@ -547,7 +547,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     </details>
 <br>
 
-- Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp: <a href="https://diaryhmh.netlify.app/">Diary Calendar</a>
+- Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp: <a href="https://diaryhmh.netlify.app/">Live Site</a>
   <p>Diary Application Developed an interactive and responsive Diary Application that provides users with a personalized journaling experience. The application allows users to select any day of the month, across any year, to add, edit, or delete diary entries.  This project showcases my ability to create user-centric applications with intuitive navigation and responsive design. It also highlights my proficiency in managing and manipulating data structures, such as unordered lists, to enhance user experience.</p>
   
   <p align="left">
@@ -580,7 +580,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 </details>
 <br>
 
-- Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Spammer</a>
+- Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Live Site</a>
 
   <p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
   <p align="left">
