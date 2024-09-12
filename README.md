@@ -53,7 +53,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Convex-FF7F50.svg?style=for-the-badge&logo=Convex&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
   </p>
 
@@ -493,41 +493,29 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </details>
   <br>
 
-
-- Advocacy Project for CodePath - Intro to Web Development: 
-  <a href="https://codeblasters.netlify.app/" target="_blank">Code Blasters</a>
-  <p>Throughout the course, I worked towards creating a single page website focused on a coding website for children with ADHD and other disabilities about Social Impact for Good.</p>
-  <details>
-  <summary>Skills & Features</summary>
-  <br>
-  
-  - HTML
-  - JavaScript
-  - Vanilla CSS
-  - Light & Dark Mode
-  - Responsive NavBar
-
-  </details>
-  <br>
-
 - Pet Taskmaster for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://pettaskmaster.netlify.app/" target="_blank">Pet Taskmaster</a>
   <p>I collaborated with 2 teammates on a full-stack web application crafted with React, CSS, JavaScript, and Next.js for the frontend, and Prisma for streamlined query and API handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. Pet Taskmasters is a user friendly task management game application that allows the users to purchase pokemon using earned coins, raise a pokemon to evolve its stage, complete tasks, create tasks, and earn coins for completing bonus tasks. The project showcases our proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  </p>
 
     <details>
     <summary>Skills & Features</summary>
     <br>
-    
-    - HTML
-    - JavaScript
-    - Vanilla CSS
-    - React
-    - Next js
-    - Prisma ORM
-    - Netlify
-    - Neon Postgres
-    - Pokemon API - <a href="https://pokeapi.co/#google_vignette" target="_blank">Pokemon API Website</a>
-    - YouTube Video: <a href="https://youtu.be/ePmjyNAOpHU" target="_blank">Pet Taskmaster Video</a>
-    - GitHub Repo: <a href="https://github.com/DanielL87/capstone-next.git" target="_blank">Team Lead Pet TaskMaster Repository</a>
+      <ul>
+        <li>Neon Postgres</li>
+        <li>Pokemon API - <a href="https://pokeapi.co/#google_vignette" target="_blank">Pokemon API Website</a></li>
+        <li>YouTube Video: <a href="https://youtu.be/ePmjyNAOpHU" target="_blank">Pet Taskmaster Video</a></li>
+        <li>GitHub Repo: <a href="https://github.com/DanielL87/capstone-next.git" target="_blank">Team Lead Pet TaskMaster Repository</a></li>
+      </ul>
     <br>
 
     <p><strong>Shout out to David & Moreen</strong>, 2 of the best teammates to work with on a project!</p>
@@ -539,18 +527,21 @@ Currently attending college to finish my Bachelors in Business Administration wi
 
 - Reddit Clone for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp:  <a href="https://redditclonehmh.netlify.app/" target="_blank">Reddit Clone</a>
   <p>I developed a sophisticated full-stack web application crafted with React and Next.js for the frontend, and Prisma for streamlined query handling. This comprehensive platform offers users a seamless experience, featuring robust authentication functionalities for registration, login, and logout. The message board aspect enables users to post, edit, delete, and upvote messages, fostering an interactive community environment. Leveraging folder-based routing on the frontend ensures code organization and maintainability. Moreover, the application supports threaded discussions through a well-implemented commenting system, facilitating engaging conversations around posted messages. The project showcases my proficiency in fullstack development and the utilization of cutting-edge technologies for a dynamic and user-centric web application.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  </p>
 
     <details>
     <summary>Skills & Features</summary>
     <br>
-    
-    - HTML
-    - JavaScript
-    - Vanilla CSS
-    - React
-    - Next js
-    - Prisma ORM
-    - Netlify
     - Neon Postgres
   
     </details>
@@ -559,21 +550,18 @@ Currently attending college to finish my Bachelors in Business Administration wi
 - Diary for HackmyHead - Software Engineering and Fullstack Web Development Bootcamp: <a href="https://diaryhmh.netlify.app/">Diary Calendar</a>
   <p>Diary Application Developed an interactive and responsive Diary Application that provides users with a personalized journaling experience. The application allows users to select any day of the month, across any year, to add, edit, or delete diary entries.  This project showcases my ability to create user-centric applications with intuitive navigation and responsive design. It also highlights my proficiency in managing and manipulating data structures, such as unordered lists, to enhance user experience.</p>
   
+  <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
+  </p>
+  
     <details>
   <summary>Skills & Features</summary>
   <br> 
-  <ul>
-    <li><b>Skills:</b>
-      <ul>
-        <li>HTML</li>
-        <li>JavaScript</li>
-        <li>Vanilla CSS</li>
-        <li>React</li>
-        <li>Next js</li>
-        <li>Netlify</li>
-      </ul>
-    </li>
-    <br>
     <li><b>Key Features:</b>
       <ul>
         <li>Implemented a user-friendly interface that enables users to easily navigate through the calendar and manage their diary entries</li>
@@ -595,6 +583,11 @@ Currently attending college to finish my Bachelors in Business Administration wi
 - Spammer Application for HackmyHead - <a href="https://spammerproject.netlify.app/">Spammer</a>
 
   <p>Spammer is a comprehensive messaging application that provides users with a platform to post, edit, like, and comment on messages. The application is designed with a focus on user interaction and data management.</p>
+  <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  </p>
 
   <details>
   <summary>Skills & Features</summary>
@@ -637,7 +630,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
   </ul>
 </details>
 
-- 100 Days of Python Code using Replit <a href="https://replit.com/@imdesigns?tab=repls" target="_blank">Replit Profile</a> 
+- 100 Days of Python Code using Replit <a href="hhttps://github.com/IntermediaDesigns/100-days-of-python" target="_blank">Replit Profile</a> 
   <p>During the 100 Days, I learned frontend implementing flask, build games, apps, and websites by mastering Python programming.</p>
 
   <details>
