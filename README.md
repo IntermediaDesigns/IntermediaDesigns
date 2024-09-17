@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="animatedbanner2.gif" />
+  <img src="githubbanner.gif" />
 
 </p>
 
