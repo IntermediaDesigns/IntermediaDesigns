@@ -10,7 +10,8 @@
 <a href="https://twitter.com/imdesignsllc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdesignsllc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lynjai-jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynjai-jimenez" height="30" width="40" /></a>
 <a href="https://instagram.com/intermedia_designs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intermedia_designs" height="30" width="40" /></a>
-<a href="https://linktr.ee/LynjaiJimenez" target="_blank"><img align="center" src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png?updated=1667559949507" alt="link tree" height="30" width="30" /> </a> 
+<a href="https://www.credly.com/users/lynjai-riemer" target="blank"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" /></a>
+<!-- <a href="https://linktr.ee/LynjaiJimenez" target="_blank"><img align="center" src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png?updated=1667559949507" alt="link tree" height="30" width="30" /> </a>  -->
 </p>
 <br/>
 <p align="center">📫 How to reach me: <br/> <a href="mailto:intermediadesignsllc@gmail.com" target="_blank" alt="email">intermediadesignsllc@gmail.com</a></p>
@@ -705,6 +706,19 @@ Currently attending college to finish my Bachelors in Business Administration wi
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h2><img align="center" src="credly.png" /> Credly Badges</h2>
+
+<p align="center">
+<a href="https://www.credly.com/badges/add1de27-9f72-4e61-801c-55028cd1e33e" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/6c6ad690-fede-4cd7-9c49-33a504f311ed" target="blank"><img align="center" src="https://i.ibb.co/rGRM1cXY/adobecontent.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/2ef6eff2-9f44-48e6-abbc-77f1d2b191d3" target="blank"><img align="center" src="ibmfe.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/a100ac97-487b-48a0-8bf2-d044b0fae85b" target="blank"><img align="center" src="ibmswe.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/3a9b62f6-e362-48f9-bd31-df9fee22e3e5" target="blank"><img align="center" src="ibmcloud.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/8f0ae6bd-f16c-4f70-907b-4599918d87e0" target="blank"><img align="center" src="ibmgit.png" height="200" width="200" /></a>
+</p>
 
 <br/>
 
