@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="githubbanner.gif" />
+  <img src="ghbanner.gif" />
 
 </p>
 
