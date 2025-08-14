@@ -45,7 +45,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <h2>✅ Projects:</h2>
 <br>
 
-- Pulse Clinic Health App - Comprehensive Healthcare Management Platform for Dallas Software Developers Group
+- Pulse Health App - Comprehensive Healthcare Management Platform for Dallas Software Developers Group
   <p><a href="https://pulsehealthapp.netlify.app/">Live Site</a></p>
   <p>This comprehensive healthcare management web application was developed during a 6-week apprenticeship program with Dallas Software Developers Group. The platform streamlines interactions between patients and healthcare providers, improving appointment scheduling, and digitizing intake and document management—all within a secure, user-friendly interface designed to modernize healthcare accessibility.</p>
   
@@ -53,7 +53,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white" />
   </p>
 
   <details>
@@ -77,7 +78,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
     <ul>
       <li><strong>Frontend</strong>: Next.js with TypeScript</li>
       <li><strong>Backend</strong>: Appwrite</li>
-      <li><strong>Styling</strong>: Tailwind CSS</li>
+      <li><strong>Styling</strong>: Tailwind CSS & DaisyUI</li>
       <li><strong>Deployment</strong>: Netlify</li>
     </ul>
     <br>
@@ -112,7 +113,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
         <li>Responsive design ensuring accessibility across all devices</li>
         <li>Intuitive user interface designed for healthcare accessibility standards</li>
         <li>Role-based navigation optimized for both patients and providers</li>
-        <li>Modern component library built with Tailwind CSS</li>
+        <li>Modern component library built with Tailwind CSS and DaisyUI</li>
+        <li>Pre-built, customizable UI components for consistent design language</li>
     </ul>
     <br>
     <li>Program Details:</li>
