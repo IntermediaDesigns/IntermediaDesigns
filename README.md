@@ -45,6 +45,97 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <h2>✅ Projects:</h2>
 <br>
 
+- Pulse Health App - Comprehensive Healthcare Management Platform for Dallas Software Developers Group
+  <p><a href="https://pulsehealthapp.netlify.app/">Live Site</a></p>
+  <p>This comprehensive healthcare management web application was developed during a 6-week apprenticeship program with Dallas Software Developers Group. The platform streamlines interactions between patients and healthcare providers, improving appointment scheduling, and digitizing intake and document management—all within a secure, user-friendly interface designed to modernize healthcare accessibility.</p>
+  
+  <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  </p>
+
+  <details>
+  <summary>Project Overview:</summary>
+  <br>
+  <ul>
+    <li>Features:</li>
+    <br>
+      <ul>
+        <li><strong>Provider Search & Discovery</strong>: Comprehensive search functionality for healthcare providers with filtering by specialty, location, and ratings.</li>
+        <li><strong>Appointment Management</strong>: Complete booking system allowing patients to schedule, reschedule, and manage appointments with healthcare providers.</li>
+        <li><strong>Digital Intake Forms</strong>: Streamlined patient intake process with digital forms and document upload capabilities.</li>
+        <li><strong>Dual Dashboard System</strong>: Personalized dashboards for both patients and providers with role-specific functionality.</li>
+        <li><strong>Secure Authentication</strong>: Robust user authentication system ensuring secure access for patients and healthcare providers.</li>
+        <li><strong>File Management System</strong>: Secure upload and management of medical records, insurance documents, and other healthcare files.</li>
+        <li><strong>Provider Ratings</strong>: Rating system showcasing top-rated doctors and detailed provider information.</li>
+      </ul>
+    <br>
+    <li>Tech Stack:</li>
+    <br>
+    <ul>
+      <li><strong>Frontend</strong>: Next.js with TypeScript</li>
+      <li><strong>Backend</strong>: Appwrite</li>
+      <li><strong>Styling</strong>: Tailwind CSS</li>
+      <li><strong>Deployment</strong>: Netlify</li>
+    </ul>
+    <br>
+    <li>Technical Implementation:</li>
+   
+    <h3>Next.js Frontend</h3>
+    <ul>
+        <li>Server-side rendering for optimal performance and SEO</li>
+        <li>TypeScript integration for enhanced type safety and developer experience</li>
+        <li>Modern, responsive UI components including navigation, tables, cards, and modals</li>
+        <li>Dynamic routing for seamless user experience across patient and provider workflows</li>
+    </ul>
+    
+    <h3>Appwrite Backend Integration</h3>
+    <ul>
+        <li>Secure authentication services for multi-role user management</li>
+        <li>Database services for storing patient information, appointments, and provider data</li>
+        <li>File storage solutions for medical documents and insurance files</li>
+        <li>Real-time data synchronization for appointment updates and notifications</li>
+    </ul>
+    
+    <h3>Healthcare-Specific Features</h3>
+    <ul>
+        <li>HIPAA-compliant data handling and storage practices</li>
+        <li>Intuitive appointment scheduling with conflict resolution</li>
+        <li>Comprehensive intake form system with conditional logic</li>
+        <li>Provider profile management with specialties and availability</li>
+    </ul>
+
+    <h3>User Experience Design</h3>
+    <ul>
+        <li>Responsive design ensuring accessibility across all devices</li>
+        <li>Intuitive user interface designed for healthcare accessibility standards</li>
+        <li>Role-based navigation optimized for both patients and providers</li>
+        <li>Modern component library built with Tailwind CSS</li>
+    </ul>
+    <br>
+    <li>Program Details:</li>
+    <br>
+    <p>This project was developed as part of the Dallas Software Developers Group's 6-week apprenticeship program (July 2025 - August 2025), a completely free developer placement program designed to pair developers with industry professionals for hands-on project experience. Guided by seasoned developers, this program focused on equipping participants with real-world skills and creating compelling projects to showcase in interviews.</p>
+  </ul>
+  
+  <br>
+  <h2>Conclusion</h2>
+  <p>Pulse Health App addresses critical challenges in modern healthcare management:</p>
+  <ul>
+    <li><strong>Streamlining Healthcare Access:</strong> By providing an intuitive platform for provider discovery and appointment booking, the application removes barriers to healthcare access.</li>
+    <li><strong>Digitizing Healthcare Workflows:</strong> The digital intake forms and document management system modernize traditional paper-based processes, improving efficiency for both patients and providers.</li>
+    <li><strong>Enhancing Patient Experience:</strong> The user-centric design prioritizes ease of use, making healthcare management more accessible to users of all technical backgrounds.</li>
+    <li><strong>Supporting Provider Efficiency:</strong> The provider dashboard and appointment management tools help healthcare professionals streamline their practice management.</li>
+    <li><strong>Ensuring Data Security:</strong> Built with healthcare compliance in mind, the platform prioritizes the security and privacy of sensitive medical information.</li>
+    <li><strong>Promoting Healthcare Transparency:</strong> The provider rating system helps patients make informed decisions about their healthcare choices.</li>
+  </ul>
+  <br>
+  <p>This platform not only demonstrates technical proficiency in modern web development but also showcases the ability to tackle real-world problems in the healthcare industry. The project reflects a deep understanding of both user experience design and the specific challenges facing healthcare management today, positioning it as a meaningful contribution to healthcare technology innovation.</p>
+  </details>
+  <br>
+
 - Code Sage AI - AI-Assisted Code Review Platform
   <p><a href="https://code-sage-ai.vercel.app/">Live Site</a></p>
   <p> This AI-Assisted Code Review Platform is an innovative solution designed to revolutionize the code review process. By leveraging cutting-edge AI technology, it provides intelligent, automated code analysis and suggestions, enhancing code quality and accelerating development cycles.</p>
