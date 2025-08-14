@@ -45,7 +45,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <h2>✅ Projects:</h2>
 <br>
 
-- Pulse Health App - Comprehensive Healthcare Management Platform for Dallas Software Developers Group
+- Pulse Clinic Health App - Comprehensive Healthcare Management Platform for Dallas Software Developers Group
   <p><a href="https://pulsehealthapp.netlify.app/">Live Site</a></p>
   <p>This comprehensive healthcare management web application was developed during a 6-week apprenticeship program with Dallas Software Developers Group. The platform streamlines interactions between patients and healthcare providers, improving appointment scheduling, and digitizing intake and document management—all within a secure, user-friendly interface designed to modernize healthcare accessibility.</p>
   
