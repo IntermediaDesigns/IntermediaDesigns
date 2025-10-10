@@ -812,6 +812,8 @@ Currently attending college to finish my Bachelors in Business Administration wi
 <a href="https://www.credly.com/badges/a100ac97-487b-48a0-8bf2-d044b0fae85b" target="blank"><img align="center" src="ibmswe.png" height="200" width="200" /></a>
 <a href="https://www.credly.com/badges/3a9b62f6-e362-48f9-bd31-df9fee22e3e5" target="blank"><img align="center" src="ibmcloud.png" height="200" width="200" /></a>
 <a href="https://www.credly.com/badges/8f0ae6bd-f16c-4f70-907b-4599918d87e0" target="blank"><img align="center" src="ibmgit.png" height="200" width="200" /></a>
+<a href="https://www.credly.com/badges/f625b612-f896-4272-a040-e860ea8a0427" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7088e3c0-f96f-4ad3-854b-17c30e696ca2" height="200" width="200" /></a>
+
 </p>
 
 <br/>
