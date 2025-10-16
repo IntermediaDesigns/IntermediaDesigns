@@ -823,7 +823,7 @@ Currently attending college to finish my Bachelors in Business Administration wi
 
   <img src="https://github-readme-stats.vercel.app/api?username=IntermediaDesigns&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IntermediaDesigns&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=intermediadesigns&theme=midnight-purple&hide_border=false" />
   <br/>  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntermediaDesigns&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
