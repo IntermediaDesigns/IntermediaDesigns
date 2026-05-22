@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="ghbanner.gif" />
+  <img src="GitHubbanner.gif" />
 
 </p>
 
@@ -18,9 +18,16 @@
 <br/>
 
 <h2>About Me:</h2>
-Currently attending college to finish my Bachelors in Business Administration with a minor in Web and Digital Design. I'm a passionate learner who's always interested in expanding my horizons. I'm currently diving deep into the world of programming, learning various languages to broaden my skill set and understanding. I've been spending my time developing projects, which allows me to apply what I've learned in a practical way. 
+<p>I’m a Full‑Stack Software Engineer passionate about building scalable, human‑centered digital experiences. With a background in Business Administration and Web & Digital Design, I bridge creativity and engineering to craft applications that are both functional and visually engaging.
 
-<br/><br/>
+Currently, I’m developing AI‑powered and full‑stack projects using React, Next.js, TypeScript, Python, Tailwind, Firebase, Prisma, Stripe, and modern AI frameworks. My work spans SaaS platforms, RAG pipelines, mobile features, and real‑time systems — all focused on solving real problems with clean, efficient code.
+
+As a Software Engineer, I continue to mentor students nationwide, strengthening my skills in debugging, leadership, and technical communication.
+
+I thrive on learning, collaboration, and innovation — whether it’s architecting new systems, mentoring developers, or designing intuitive user experiences. 
+</p>
+
+<br/>
 <h2>🌟 Goals:</h2>
 
 - 🗂️ Develop a desktop application for contract management
